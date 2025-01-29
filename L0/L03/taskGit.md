@@ -1,6 +1,6 @@
 ### Task 1
 
-![image-20250129203529094](/Users/kanyuheng/Library/Application Support/typora-user-images/image-20250129203529094.png)
+![image-20250129203529094](./git.png)
 
 Git 链接：
 

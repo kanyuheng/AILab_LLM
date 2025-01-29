@@ -1,1 +1,1 @@
-![端口映射](/Users/kanyuheng/tmpLearning/AILab_LLM/L0/L01/端口映射.jpg)
+![端口映射](./端口映射.jpg)
